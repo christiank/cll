@@ -2705,6 +2705,103 @@
   </section>
   <section xml:id="section-vocative-scales">
     <title><anchor xml:id="c13s14"/>Vocative scales</title>
+
+    <para>This section discusses the following indicators:</para>
+
+    <cmavo-list>
+      <cmavo-entry>
+        <cmavo>coi</cmavo>
+        <attitudinal-scale point="sai">greetings</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>co'o</cmavo>
+        <attitudinal-scale point="sai">partings</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>ju'i</cmavo>
+        <gismu>[jundi]</gismu>
+        <attitudinal-scale point="sai">attention</attitudinal-scale>
+        <attitudinal-scale point="cu'i">at ease</attitudinal-scale>
+        <attitudinal-scale point="nai">ignore me/us</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>nu'e</cmavo>
+        <gismu>[nupre]</gismu>
+        <attitudinal-scale point="sai">promise</attitudinal-scale>
+        <attitudinal-scale point="cu'i">release promise</attitudinal-scale>
+        <attitudinal-scale point="nai">non-promise</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>ta'a</cmavo>
+        <gismu>[tavla]</gismu>
+        <attitudinal-scale point="sai">interruption</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>pe'u</cmavo>
+        <gismu>[cpedu]</gismu>
+        <attitudinal-scale point="sai">request</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>ki'e</cmavo>
+        <gismu>[ckire]</gismu>
+        <attitudinal-scale point="sai">appreciation; gratitude</attitudinal-scale>
+        <attitudinal-scale point="nai">disappreciation; ingratitude</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>fi'i</cmavo>
+        <gismu>[friti]</gismu>
+        <attitudinal-scale point="sai">welcome; offering</attitudinal-scale>
+        <attitudinal-scale point="nai">unwelcome; inhospitality</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>be'e</cmavo>
+        <gismu>[benji]</gismu>
+        <attitudinal-scale point="sai">request to send</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>re'i</cmavo>
+        <gismu>[bredi]</gismu>
+        <attitudinal-scale point="sai">ready to receive</attitudinal-scale>
+        <attitudinal-scale point="nai">not ready</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>mu'o</cmavo>
+        <gismu>[mulno]</gismu>
+        <attitudinal-scale point="sai">completion of utterance</attitudinal-scale>
+        <attitudinal-scale point="nai">more to follow</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>je'e</cmavo>
+        <gismu>[jimpe]</gismu>
+        <attitudinal-scale point="sai">successful receipt</attitudinal-scale>
+        <attitudinal-scale point="nai">unsuccessful receipt</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>vi'o</cmavo>
+        <gismu></gismu>
+        <attitudinal-scale point="sai">will comply</attitudinal-scale>
+        <attitudinal-scale point="nai">will not comply</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>ke'o</cmavo>
+        <gismu>[krefu]</gismu>
+        <attitudinal-scale point="sai">please repeat</attitudinal-scale>
+        <attitudinal-scale point="nai">no repeat needed</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>fe'o</cmavo>
+        <gismu>[fanmo]</gismu>
+        <attitudinal-scale point="sai">end of communication</attitudinal-scale>
+        <attitudinal-scale point="nai">not done</attitudinal-scale>
+      </cmavo-entry>
+      <cmavo-entry>
+        <cmavo>mi'e</cmavo>
+        <gismu>[cmavo: mi]</gismu>
+        <attitudinal-scale point="sai">self-identification</attitudinal-scale>
+        <attitudinal-scale point="nai">non-identification</attitudinal-scale>
+      </cmavo-entry>
+    </cmavo-list>
+
     <para> <indexterm type="lojban-word"><primary>COI selma'o</primary></indexterm>  <indexterm type="general"><primary>direct address</primary></indexterm>  <indexterm type="general"><primary>&quot;la&quot;</primary><secondary>contrasted with vocatives</secondary></indexterm>  <indexterm type="general"><primary>vocatives</primary><secondary>contrasted with &quot;la&quot;</secondary></indexterm>  <indexterm type="general"><primary>vocatives</primary><secondary>definition</secondary></indexterm> 
     <quote>Vocatives</quote> are words used to address someone directly; they precede and mark a name used in direct address, just as 
     
