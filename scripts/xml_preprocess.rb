@@ -59,7 +59,7 @@ end
 
 # Add index information ; put the index entry element as the first
 # child of this node
-def indexify!( node:, indextype:, role: nil )
+def indexify!( node: nil, indextype: nil, role: nil )
   if role == nil
     role = node.name
   end
@@ -69,7 +69,7 @@ end
 
 # Converts a node's name and sets the role (to the old name by
 # default), with an optional language
-def convert!( node:, newname:, role: nil, lang: nil )
+def convert!( node: nil, newname: nil, role: nil, lang: nil )
   unless role
     role = node.name
   end
@@ -87,7 +87,7 @@ end
 
 # Loops over the children of a node, complaining if a bad child is
 # found and handling non-element children.
-def handle_children( node:, allowed_children_names:, ignore_others: false, &proc )
+def handle_children( node: nil, allowed_children_names: nil, ignore_others: false, &proc )
   node.children.each do |child|
     unless child.element?
       next
